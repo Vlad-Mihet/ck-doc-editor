@@ -7,8 +7,7 @@ This repository presents a [document editor build](https://ckeditor.com/docs/cke
 1. Clone the repository:
 
    ```
-   git clone git@github.com:ckeditor/ckeditor5-collaboration-samples.git
-   cd ckeditor5-collaboration-samples/document-editor-with-real-time-collaboration
+   git clone https://github.com/Vlad-Mihet/ck-doc-editor.git
    ```
 
 2. Open the `samples/document-editor-with-real-time-collaboration.html` page in the browser.
